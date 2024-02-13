@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldLogs.Server", "WorldLogs.Server\WorldLogs.Server.csproj", "{C7CB82B1-4DA8-4E5C-8A87-016451623047}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "worldlogs.client", "worldlogs.client\worldlogs.client.esproj", "{B179CFDB-99A4-45E7-83A6-52A511D9BA95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7CB82B1-4DA8-4E5C-8A87-016451623047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7CB82B1-4DA8-4E5C-8A87-016451623047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7CB82B1-4DA8-4E5C-8A87-016451623047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7CB82B1-4DA8-4E5C-8A87-016451623047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B179CFDB-99A4-45E7-83A6-52A511D9BA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B179CFDB-99A4-45E7-83A6-52A511D9BA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B179CFDB-99A4-45E7-83A6-52A511D9BA95}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B179CFDB-99A4-45E7-83A6-52A511D9BA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B179CFDB-99A4-45E7-83A6-52A511D9BA95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B179CFDB-99A4-45E7-83A6-52A511D9BA95}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19EC270C-61C0-4611-9D3F-957902DA814F}
+	EndGlobalSection
+EndGlobal
